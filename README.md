@@ -2,7 +2,7 @@
 
 #### Creates an application that lists the to do tasks and adds them to a list.
 
-#### By Polina Nenchev and Michael Schennum
+#### By Isabelle George and Michael Schennum
 
 ## Description
 
@@ -26,4 +26,4 @@ Java, Spark, Junit, Velocity, Bootstrap
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2016 Polina Nenchev and Michael Schennum
+Copyright (c) 2016 Isabelle George and Michael Schennum
